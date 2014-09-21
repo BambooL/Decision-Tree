@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{bryll2003attribute}
+R.~Bryll, R.~Gutierrez-Osuna, and F.~Quek.
+\newblock Attribute bagging: improving accuracy of classifier ensembles by
+  using random feature subsets.
+\newblock {\em Pattern recognition}, 36(6):1291--1302, 2003.
+
+\bibitem{green1966signal}
+D.~M. Green, J.~A. Swets, et~al.
+\newblock {\em Signal detection theory and psychophysics}, volume~1.
+\newblock Wiley New York, 1966.
+
+\bibitem{moro2011using}
+S.~Moro, R.~Laureano, and P.~Cortez.
+\newblock Using data mining for bank direct marketing: An application of the
+  crisp-dm methodology.
+\newblock 2011.
+
+\end{thebibliography}
