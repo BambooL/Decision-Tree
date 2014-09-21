@@ -16,3 +16,8 @@ Adaboost outperform than the classic Decision Tree.
 ### Dataset Description
 
 See doc/bank-names.txt
+
+
+### Report
+
+See doc/main.pdf
