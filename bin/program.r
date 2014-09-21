@@ -2,7 +2,7 @@ main=function() {
 # Classification Tree with rpart
 library(rpart)
 
-bank=Dropbox\datamining\bank\bank.csv
+bank=bank.csv
 # grow tree 
 fit<- rpart(y~ age+job+marital+education+default+balance+housing+loan+contact+day+month+duration+campaign+pdays+previous+poutcome, method="class",data=bank)
 
